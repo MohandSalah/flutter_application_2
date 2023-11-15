@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.flutter_application_2.app-mergeDebugResources-30:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mohand\\.gradle\\caches\\transforms-3\\2343fdf913662dedd4aa89f1f8fa6973\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
